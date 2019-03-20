@@ -37,3 +37,5 @@
 // let data = await example()
 
 // let data = await gitexample(https://api.github.com/user/martinegreira)
+
+//pasar de objeto a metodo : let json = JSON.stringify(obj)
